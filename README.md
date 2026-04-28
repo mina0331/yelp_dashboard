@@ -1,6 +1,6 @@
  # 🍽️ Yelp Data Analytics Dashboard
 
-An interactive data analytics dashboard built on Yelp’s large-scale dataset to explore restaurant trends, customer behavior, and regional insights. This project combines data engineering, feature engineering, and visualization to transform raw data into actionable insights.
+An interactive data analytics dashboard built on Yelp’s large-scale dataset to explore restaurant trends, customer behavior, and regional insights in Philadelphia. This project combines data engineering, feature engineering, and visualization to transform raw data into actionable insights.
 
 ---
 
@@ -41,7 +41,6 @@ This project processes and analyzes ~10GB of Yelp data, including business detai
    - Categorized cuisines using regex-based mapping  
    - Derived price ranges and business attributes  
    - Parsed check-in timestamps to estimate traffic patterns  
-   - Created “vibe” classifications from business metadata  
 
 4. **Data Optimization**
    - Reduced dataset size by dropping unused columns  
@@ -53,7 +52,7 @@ This project processes and analyzes ~10GB of Yelp data, including business detai
 
 - **Interactive Map Visualization**
   - Displays restaurant locations with dynamic filters  
-  - Color-coded by rating, cuisine, price, or vibe  
+  - Color-coded by rating and price
 
 - **Dynamic Filtering System**
   - Filter by cuisine, price range, noise level, and more  
