@@ -72,4 +72,4 @@ This project processes and analyzes ~10GB of Yelp data, including business detai
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/yelp_dashboard.git
-   cd yelp-dashboard
+   cd yelp_final_project
