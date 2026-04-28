@@ -72,3 +72,6 @@ This project processes and analyzes ~10GB of Yelp data, including business detai
    ```bash
    git clone https://github.com/your-username/yelp_dashboard.git
    cd yelp_final_project
+2. Run app.r
+   ```bash
+   Rscript app.R
